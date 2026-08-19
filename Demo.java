@@ -4,13 +4,13 @@ public class Demo {
         Student s1 = new Student();
         Student s2 = new Student();
 
-        s1.name = "Aditya";
-        s1.age = 28;
+        s1.name = "Vishal Singh";
+        s1.age = 23;
         s1.rollNumber = 101;
         s1.college = "IIT Kanpur";
 
-        s2.name = "Rohit";
-        s2.age = 28;
+        s2.name = "Rohit Singh";
+        s2.age = 23;
         s2.rollNumber = 102;
         s2.college = "IIT Kanpur";
 
