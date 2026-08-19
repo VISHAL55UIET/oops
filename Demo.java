@@ -8,15 +8,12 @@ public class Demo {
         s1.age = 23;
         s1.rollNumber = 101;
         s1.college = "IIT Kanpur";
-
         s2.name = "Shivam Singh";
         s2.age = 23;
         s2.rollNumber = 102;
         s2.college = "IIT Kanpur";
-
         s1.markAttendance();
         s2.markAttendance();
-
         s1.print();
         s2.print();
     }
