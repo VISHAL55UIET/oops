@@ -9,7 +9,7 @@ public class Demo {
         s1.rollNumber = 101;
         s1.college = "IIT Kanpur";
 
-        s2.name = "Rohit Singh";
+        s2.name = "Shivam Singh";
         s2.age = 23;
         s2.rollNumber = 102;
         s2.college = "IIT Kanpur";
